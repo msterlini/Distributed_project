@@ -84,4 +84,4 @@ Launch arguments: `gui`, `gazebo_gui`, `monitor`, `record`, `bag_name`, `bag_dir
 | `urdf/`, `mesh/`, `models/`, `worlds/` | robot, room and Gazebo world |
 | `msg/` | messages `UwbData` and `RobotData` |
 | `bagfiles/`, `plots/` | recorded runs, analysis scripts and figures |
-| `docker/`, `test/` | Docker setup, unit tests |
+| `docker/`, `test/` | Docker setup, unit tests | 
